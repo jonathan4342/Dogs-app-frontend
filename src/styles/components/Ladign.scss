@@ -1,0 +1,16 @@
+
+.inicio{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://image.freepik.com/vector-gratis/razas-perros-dibujos-animados-vector-ilustracion-linda-doodle-conjunto-caracteres-diferentes-perros_523479-339.jpg');
+}
+
+.button{
+    box-shadow: 1px 1px;
+    width: 150px;
+    border-radius: 5px;
+    font-family:  Times, serif;
+    font-size: 17px;
+}

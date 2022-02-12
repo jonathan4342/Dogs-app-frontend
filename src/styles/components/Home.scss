@@ -1,0 +1,62 @@
+body{
+    background-color:#3282B8
+}
+.formConten{
+    display: flex;
+    background-color: #0F4C75;
+    gap: 3rem;
+    padding: 1rem .5rem;
+}
+button{
+    cursor: pointer;
+}
+
+.containerDog{
+    padding-left: 3rem;
+    gap:3rem;
+    display:grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+
+}
+
+.dog{
+    display: flex;
+    background-color:#BBE1FA;
+    width:300px;
+    padding: 10px 20px;
+    margin: 10% auto;
+    border-radius: 30px;
+    align-content: center;
+    box-shadow: 5px 5px 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.botones{
+    display: flex;
+    justify-content: center;
+    gap: .3rem;
+}
+
+.dogInfo{
+    display: flex;
+    padding: 150px;
+    gap: 5rem;
+    align-items: center;
+    background-color: #BBE1FA;
+    height: 200px;
+    justify-content: center;
+    border-radius: 600px;
+    box-shadow: 5px 5px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
